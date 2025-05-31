@@ -1,5 +1,5 @@
 # Html-portfolio
-Multi pages portfolio website on HTML
+Multi pages simple website on HTML5
 
 
 
